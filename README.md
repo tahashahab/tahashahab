@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Shahab</h1>
-<h3 align="center">An aspiring Data Scientist from Toronto</h3>
+<h3 align="center">Data Scientist from Toronto</h3>
 
 - 📫 How to reach me **tahashahabw@gmail.com**
 - [Visit my portfolio page](https://tahashahab.github.io/)
